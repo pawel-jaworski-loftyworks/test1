@@ -1,1 +1,1 @@
-CREATE TABLE users;
+CREATE TABLE users (id TEXT not null, username TEXT, password TEXT);
